@@ -1,6 +1,6 @@
 # projeto2fesp
 
-# Sistem de controles de contas a pagar
+# SMARTFLUX - Sistema de controles de contas a pagar
 
 ## Autores
 
